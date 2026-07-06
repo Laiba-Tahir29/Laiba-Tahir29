@@ -13,6 +13,9 @@
 <a href="https://www.linkedin.com/in/laiba-tahir-6a4a3432a/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
+<a href="mailto:laibatahir29@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 
 </div>
@@ -156,9 +159,8 @@ Modern responsive portfolio showcasing projects, technical skills, and achieveme
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Laiba-Tahir29&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -168,7 +170,7 @@ Modern responsive portfolio showcasing projects, technical skills, and achieveme
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Laiba-Tahir29&theme=tokyonight&hide_border=true"/>
 
 </p>
 
