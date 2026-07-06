@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/laiba-tahir-6a4a3432a/" target="_blank">
+<a href="mailto:laibatahir6002@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"></a>
 </p>
 
@@ -219,18 +219,7 @@ Open Source ███████░░░░ 55%
 
 > *"Stay curious. Keep building. Never stop learning."*
 
----
 
-# 📫 Let's Connect
----
-
-# 📫 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/laiba-tahir-6a4a3432a/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
 
 ---
 
