@@ -13,10 +13,9 @@
 <a href="https://www.linkedin.com/in/laiba-tahir-6a4a3432a/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
-<a href="mailto:laibatahir6002@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white.svg" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=laibatahir6002@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-
 
 </div>
 
