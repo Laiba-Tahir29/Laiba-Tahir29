@@ -9,10 +9,11 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/laiba-tahir-6a4a3432a/" target="_blank">
-<a href="mailto:laibatahir6002@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"></a>
-</p>
+
+<a href="https://www.linkedin.com/in/laiba-tahir-6a4a3432a/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
 
 </div>
 
