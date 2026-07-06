@@ -222,12 +222,17 @@ Open Source ███████░░░░ 55%
 ---
 
 # 📫 Let's Connect
+---
 
-📧 **Email:** YOUR_EMAIL
+# 📫 Connect With Me
 
-💼 **LinkedIn:** YOUR_LINKEDIN_URL
+<p align="left">
+<a href="https://www.linkedin.com/in/laiba-tahir-6a4a3432a/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
-🌐 **Portfolio:** YOUR_PORTFOLIO_URL
+---
 
 ---
 
